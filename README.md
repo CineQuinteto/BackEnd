@@ -90,6 +90,6 @@ Abaixo está demonstrado o funcionamento prático das requisições e respostas 
 
 Integrantes do Grupo
 [Luis Gustavo / Henrick] - Back-end
-[Lucas santos / Henrick] - Front-end
+[Lucas santos] - Front-end
 [Leandro Barbosa] - Devops
 [Erick Conceição] - Banco de dados
