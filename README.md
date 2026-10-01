@@ -92,7 +92,7 @@ Integrantes do Grupo
 
 [Luis Gustavo / Henrick] - Back-end
 
-[Lucas santos / Henrick] - Front-end
+[Lucas santos] - Front-end
 
 [Leandro Barbosa] - Devops
 
